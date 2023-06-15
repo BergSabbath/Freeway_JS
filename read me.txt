@@ -1,0 +1,7 @@
+Jogo freeway criado como tarefa no curso de javascript do curso ALura.
+
+para jogar:
+utilizar as teclas de navegação do teclado.
+
+- ao chegar do outro lado da avenida, marca-se 1 ponto
+- caso seja atropelado (chocar com algum carro) perde-se 1 ponto
